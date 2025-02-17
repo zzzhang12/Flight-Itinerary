@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flight</string>
+    <string name="flight_title">Flight Number</string>
+    <string name="flight_info">ABC123</string>
+    <string name="departure_title">Departure</string>
+    <string name="departure_info">LHR - 08:30 AM</string>
+    <string name="arrival_title">Arrival</string>
+    <string name="arrival_info">JFK - 12:00 PM</string>
+</resources>
